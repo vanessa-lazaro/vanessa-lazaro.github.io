@@ -9,5 +9,4 @@ description: This is a description of the page. You can modify it in '_pages/cv.
 toc:
   sidebar: left
 ---
-
-{resume.json}
+{% include resume.json %}
