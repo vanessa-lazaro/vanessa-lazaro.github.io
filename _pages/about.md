@@ -14,6 +14,6 @@ social: true # includes social icons at the bottom of the page
 
 ---
 
-!!!IN PROGRESS!!! [subreddit](http://XXXXXXXXXX.com). 
+!!!IN PROGRESS!!! [XXXXXX ](http://XXXXXXXXXX.com). 
 
 ~ * please come back soon * ~  
