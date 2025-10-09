@@ -1,26 +1,17 @@
 - title: At A Glance
   type: map
   contents:
-    - name: Full Name
-      value: Vanessa Lazaro
-    - name: PhD Student
+    - name: Vanessa Lazaro
+      value: PhD Student
+    - name: University of Chicago
       value: Department of Psychology
-    - name: Institution
-      value: University of Chicago
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+      institution: University of Chicago
+      year: present
     - title: Federal teaching diploma
       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
       year: 1900
