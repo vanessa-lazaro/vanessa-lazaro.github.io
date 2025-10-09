@@ -10,4 +10,4 @@ toc:
   sidebar: left
 ---
 
-{{ resume.json }}
+{resume.json}
