@@ -3,9 +3,8 @@
   contents:
     - name: Vanessa Lazaro
       value: University of Chicago
-    - name: Psychology PhD Student
-
-
+    - name: Department of Psychology
+      value: PhD Student
 - title: Education
   type: time_table
   contents:
