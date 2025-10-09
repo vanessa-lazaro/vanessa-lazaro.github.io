@@ -12,7 +12,6 @@
       "countryCode": "US",
       "region": "Illinois"
     },
-    ]
   },
  "education": [
     {
@@ -21,7 +20,8 @@
       "area": "Psychology",
       "studyType": "PhD",
       "startDate": "2021",
-      "endDate": "present",    }
+      "endDate": "present",   
+    }
   ], "Research Experience": [
     {
       "name": "uni",
