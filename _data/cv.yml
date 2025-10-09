@@ -17,19 +17,6 @@
       institution: The University of Chicago
      - title: Bachelor of Arts in Psychology and Sociology, with a minor in Inequality Studies
       institution: Cornell University
-
-- title: Fellowships
-  type: time_table
-  contents:
-    - title: National Science Foundation Graduate Research Fellowship
-      description:
-        - $102,000
-    - title: Institute of Education Sciences (IES) Fellowship
-      description:
-        - $170,000
-    - title: Cornell Club of Arizona Scholarship Award
-       description:
-        - $2,685
         
 - title: Honors and Awards
   type: time_table
