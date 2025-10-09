@@ -1,38 +1,33 @@
-- title: Basics
+- title: At a Glance
   type: map
   contents:
     - name: Vanessa Lazaro
       value: University of Chicago
     - name: Department of Psychology
       value: PhD Student
+      
 - title: Education
   type: time_table
   contents:
     - title: PhD
       institution: The University of Chicago
-      year: present
       description:
         - Description 1.
     - title: Master of Arts in Psychology 
       institution: The University of Chicago
-      year: 2023
      - title: Bachelor of Arts in Psychology and Sociology, with a minor in Inequality Studies
       institution: Cornell University
-      year: 2019
 
 - title: Fellowships
   type: time_table
   contents:
     - title: National Science Foundation Graduate Research Fellowship
-      year: present
       description:
         - $102,000
     - title: Institute of Education Sciences (IES) Fellowship
-      year: present
       description:
         - $170,000
     - title: Cornell Club of Arizona Scholarship Award
-      year: 2019 
        description:
         - $2,685
         
