@@ -1,5 +1,5 @@
 ---
-layout: resume.json
+layout: cv
 permalink: /cv/
 title: cv
 nav: true
