@@ -4,6 +4,6 @@ permalink: /cv/
 title: in progress
 nav: true
 nav_order: 5
-cv_pdf: example_pdf.pdf # you can also use external links here
+cv_pdf: Lazaro_CV_May2025.pdf
 description:
 ---
