@@ -1,9 +1,9 @@
 ---
 layout: cv
 permalink: /cv/
-title: in progress
+title: CV
 nav: true
 nav_order: 5
 cv_pdf: Lazaro_CV_May2025.pdf
-description:
+description: View my CV by clicking the PDF icon:
 ---
