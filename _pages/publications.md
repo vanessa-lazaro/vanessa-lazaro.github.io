@@ -16,5 +16,5 @@ Hiura, L. C., Lazaro, V. A., & Ophir, A. G. (2024). Paternal absence and increas
 Hiura, L. C., Lazaro, V. A., & Ophir, A. G. (2023). Plasticity in parental behavior and vasopressin: responses to co-parenting, pup age, and an acute stressor are experience-dependent. Frontiers in Behavioral Neuroscience, 17, 1172845.
 
 
-<sup>†</sup> indicates shared authorship
+<sup>†</sup> indicates shared first authorship
 
