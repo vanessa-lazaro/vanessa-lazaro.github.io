@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-in-my-free-time",
           title: "in my free time",
-          description: "where you can find me when I&#39;m not researching",
+          description: "where can you find me outside the lab?",
           section: "Navigation",
           handler: () => {
             window.location.href = "/in%20my%20free%20time/";
