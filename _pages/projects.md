@@ -2,7 +2,7 @@
 layout: page
 title: current projects
 permalink: /projects/
-description:  <p align="left"> what research am I currently working on? </p>
+description: what research am I currently working on?
 nav: true
 nav_order: 3
 horizontal: false
