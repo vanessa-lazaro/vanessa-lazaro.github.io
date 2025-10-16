@@ -22,7 +22,6 @@ In collaboration with Drs. Lin Bian and Rongzhi Liu
 
 As early as 6-years-old, girls show lower interest than boys in activities that require exceptional intellectual ability (7), suggesting that the gender disparity in fields that highlight brilliance may begin to develop in early childhood.  In this project, we examine how children’s sense of belonging may impact their motivation to engage in activities that emphasize brilliance. Additionally, we investigate if and how boosting children’s sense of belonging can potentially increase motivation.   
 
-<font size="3">  
 1 Purdie-Vaughns & Eibach, 2008
 2 Lei et al., 2020
 3 Lei et al., 2021
@@ -30,7 +29,6 @@ As early as 6-years-old, girls show lower interest than boys in activities that 
 5 Leslie et al., 2015
 6 Meyer et al., 2015
 7 Bian et al., 2018
- </font>
 
 
 
