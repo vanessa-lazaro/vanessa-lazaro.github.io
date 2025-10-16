@@ -17,7 +17,6 @@ In collaboration with Dr. Lin Bian
  
 In the U.S, White people are seen as more prototypical–or more representative–of “people” than people of color (1). Lay beliefs about who is more representative of people have serious, real-world consequences related to stereotyping and prejudice. Importantly, these beliefs about representativeness emerge in early childhood (2-5). In this work, we examine potential mechanisms that might underlie the development of social prototypicality. In other words, what social cognitive factors drive how we think about who is representative of “people”? 
 
-
 <font size="6">  
 Do peers’ gender and race influence children’s social preference for brilliance?
  </font>
@@ -32,8 +31,8 @@ How do children’s own sense of belonging influence their motivation to partici
  </font>
 <font size="3">  
 In collaboration with Drs. Lin Bian and Rongzhi Liu
-  
 </font>
+
 As early as 6-years-old, girls show lower interest than boys in activities that require exceptional intellectual ability (7), suggesting that the gender disparity in fields that highlight brilliance may begin to develop in early childhood.  In this project, we examine how children’s sense of belonging may impact their motivation to engage in activities that emphasize brilliance. Additionally, we investigate if and how boosting children’s sense of belonging can potentially increase motivation. 
 
 <font size="3">  
