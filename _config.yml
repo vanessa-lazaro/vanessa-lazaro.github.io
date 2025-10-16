@@ -6,8 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Vanessa
 middle_name: 
 last_name: Lazaro
-contact_note: > 
-Email is the best way to get ahold of me! 
+contact_note: >Email is the best way to get ahold of me! 
 description:  # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
