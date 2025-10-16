@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: about
 title: current projects
 permalink: /projects/
 description: what research am I currently working on?
