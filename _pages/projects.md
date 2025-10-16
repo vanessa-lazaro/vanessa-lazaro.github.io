@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 horizontal: false
 ---
-<font size="6">What is the primary mechanism underlying the development of social prototypes, or mental representations of people?</font>  
+<p style="font-size:18px">What is the primary mechanism underlying the development of social prototypes, or mental representations of people?</p>  
 In collaboration with Dr. Lin Bian 
 
 
