@@ -6,7 +6,6 @@ description: work hard, play hard -- where can you find me when I'm not doing re
 nav: true
 nav_order: 6
 ---
-TESTING
   - align: right
     image: prof_pic.jpg
     content: about_einstein.md
