@@ -2,8 +2,7 @@
 layout: page
 title: current projects
 permalink: /projects/
-description: My research projects broadly focus on how children think about their social world, with an emphasis on how they think about intersecting social categories in contexts relating to social inequality. 
-By embracing complexity and tackling challenging questions, my research aims to paint a more complete picture of social cognitive processes and their outcomes.
+description: My research projects broadly focus on how children think about their social world, with an emphasis on how they think about intersecting social categories in contexts relating to social inequality. By embracing complexity and tackling challenging questions, my research aims to paint a more complete picture of social cognitive processes and their outcomes.
 nav: true
 nav_order: 3
 horizontal: false
