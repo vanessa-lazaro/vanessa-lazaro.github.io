@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-current-projects",
           title: "current projects",
-          description: "How do children think about their social world? Namely, how do children think about intersecting social categories in contexts relating to social inequality? By embracing complexity and tackling challenging questions, my research paints a more complete picture of social cognitive processes and their outcomes.",
+          description: "By embracing complexity and tackling challenging questions, my research paints a more complete picture of social cognitive processes and their outcomes.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
