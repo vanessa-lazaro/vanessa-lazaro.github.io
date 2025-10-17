@@ -17,5 +17,6 @@ profiles:
     image_circular: false # crops the image to make it circular
  - align: right
     content: dj.md
+   image: dj.jpg
     image_circular: false # crops the image to make it circular
 ---
