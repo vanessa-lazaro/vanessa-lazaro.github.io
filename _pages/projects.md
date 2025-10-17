@@ -11,7 +11,7 @@ horizontal: false
 In collaboration with Dr. Lin Bian
 
 
-In the U.S, White people are seen as more prototypical–or more representative–of “people” than people of color (1). Lay beliefs about who is more representative of people have serious, real-world consequences related to stereotyping and prejudice. Importantly, these beliefs about representativeness emerge in early childhood (2-5). In this work, we examine potential mechanisms that might underlie the development of social prototypicality. In other words, what social cognitive factors drive how we think about who is representative of “people”? 
+In the U.S, White people are seen as more prototypical–or more representative–of “people” than people of color (1). Lay beliefs about who is more representative of people have serious, real-world consequences related to stereotyping and prejudice. Importantly, these beliefs about representativeness emerge in early childhood (2-4). In this work, we examine potential mechanisms that might underlie the development of social prototypicality. In other words, what social cognitive factors drive how we think about who is representative of “people”? 
 
 
 <font size="5"> <b> Do peers’ gender and race influence children’s social preference for brilliance? </b> </font><br> 
