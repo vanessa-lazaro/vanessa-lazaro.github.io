@@ -32,10 +32,10 @@ ninja.data = [{
           },
         },{id: "nav-in-my-free-time",
           title: "in my free time",
-          description: "work hard, play hard -- where can you find me when I&#39;m not doing research?",
+          description: "work hard, play hard.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/in%20my%20free%20time/";
+            window.location.href = "/inmyfreetime/";
           },
         },{
         id: 'social-bluesky',
