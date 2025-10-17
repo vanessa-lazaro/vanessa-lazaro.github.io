@@ -1,0 +1,2 @@
+## On a walk with my dog
+Missandei, our 5.5-year-old puppy, is my whole world. We rescued her when she was just a few months old while I still lived in Arizona (yes, she is a pandemic puppy). Upon my decision to go to graduate school, we drove her across the country from Phoenix to Chicago and she is loving the midwest. She enjoys hunting squirrels, looking out the window, and eating whatever she finds on our walks. At this point, Missandei deserves a PhD too.
