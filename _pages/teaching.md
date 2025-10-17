@@ -8,9 +8,11 @@ nav_order: 6
 
 profiles:
   - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: missandei.jpg
+    content: missandei.md
     image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>TEST</p>
+  - align: left
+    image: vidgames.jpg
+    content: vidgames.md
+    image_circular: false # crops the image to make it circular
 ---
