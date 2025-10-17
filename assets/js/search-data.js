@@ -30,13 +30,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-in-my-free-time",
-          title: "in my free time",
-          description: "work hard, play hard -- where can you find me when I&#39;m not doing research?",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/in%20my%20free%20time/";
-          },
         },{
         id: 'social-bluesky',
         title: 'Bluesky',
