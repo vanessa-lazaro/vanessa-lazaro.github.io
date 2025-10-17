@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-current-projects",
+          title: "current projects",
+          description: "My research projects broadly focus on how children think about their social world, with an emphasis on how they think about intersecting social categories in contexts relating to social inequality. By embracing complexity and tackling challenging questions, my research aims to paint a more complete picture of social cognitive processes and their outcomes.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
         },{id: "nav-cv",
           title: "cv",
           description: "View my CV by clicking the PDF icon",
