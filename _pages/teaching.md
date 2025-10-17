@@ -6,8 +6,6 @@ description:
 nav: true
 nav_order: 6
 
-## where can you find me when I'm not doing research?
-
 profiles:
   - align: right
     image: missandei.jpg
