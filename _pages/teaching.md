@@ -5,7 +5,7 @@ title: in my free time
 description: work hard, play hard -- where can you find me when I'm not doing research? 
 nav: true
 nav_order: 6
----
+
 profiles:
   - align: right
     image: prof_pic.jpg
