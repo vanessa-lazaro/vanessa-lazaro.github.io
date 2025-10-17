@@ -1,2 +1,2 @@
-##DJ
+## DJ
 My mom told me that, ever since I was little, I always wanted to be a DJ--so I thought I would give it a go. During the summer of 2024, I bought a used DJ controller on Facebook marketplace to live out my childhood dream and taught myself how to mix. My debut was during one of my best friends’ birthday–an intimate gig in my apartment living room where I played a personalized set (not to mention, it has 36 plays on Soundcloud). DJing has been unexpectedly challenging, but I love continuously learning new techniques and perfecting my craft. 
