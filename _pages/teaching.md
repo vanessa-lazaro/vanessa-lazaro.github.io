@@ -1,10 +1,12 @@
 ---
 layout: profiles
-permalink: /in my free time/
-title: where can you find me when I'm not doing research? 
+permalink: /inmyfreetime/
+title: in my free time 
 description: work hard, play hard. 
 nav: true
 nav_order: 6
+
+## where can you find me when I'm not doing research?
 
 profiles:
   - align: right
