@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /in my free time/
-title: in my free time
-description: work hard, play hard -- where can you find me when I'm not doing research? 
+title: where can you find me when I'm not doing research? 
+description: work hard, play hard. 
 nav: true
 nav_order: 6
 
