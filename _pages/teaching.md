@@ -10,13 +10,13 @@ profiles:
   - align: right
     image: missandei.jpg
     content: missandei.md
-    image_circular: false # crops the image to make it circular
+    image_circular: true # crops the image to make it circular
   - align: left
     image: vidgames.jpg
     content: vidgames.md
-    image_circular: false # crops the image to make it circular
- - align: right
+    image_circular: true # crops the image to make it circular
+  - align: right
+    image: dj.jpg
     content: dj.md
-   image: dj.jpg
-    image_circular: false # crops the image to make it circular
+    image_circular: true # crops the image to make it circular
 ---
