@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /inmyfreetime/
-title: in my free time... 
-description: <font size="6"> Where can you find me when I'm not doing research?</font>
+title: in my free time
+description: <font size="6">Where can you find me when I'm not doing research?</font>
 nav: true
 nav_order: 6
 
