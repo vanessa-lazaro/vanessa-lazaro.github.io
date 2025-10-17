@@ -6,11 +6,11 @@ description: work hard, play hard -- where can you find me when I'm not doing re
 nav: true
 nav_order: 6
 ---
+profiles:
   - align: right
     image: prof_pic.jpg
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>test</p>
-      <p>test</p>
+      <p>TEST</p>
 ---
