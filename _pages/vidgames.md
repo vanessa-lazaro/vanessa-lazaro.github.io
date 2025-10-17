@@ -1,3 +1,3 @@
-## Play video games
+## On the Ps5
 I’ve been playing video games ever since I was 5 years old when my older brothers taught me how to play Counterstrike on the PC. Ever since then, I’ve grown up playing on different consoles from the Sega Genesis and Gamecube to the Nintendo DS, Playstation, and more. I keep a notes app of all the video games I have ever played (60+ and counting), but some of my all-time favorites include the RDR 2, Witcher III, and Guitar Hero III.
 <em>Currently playing: Outer Worlds</em>
