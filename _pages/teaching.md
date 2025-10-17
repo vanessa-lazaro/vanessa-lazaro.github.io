@@ -15,4 +15,8 @@ profiles:
     image: vidgames.jpg
     content: vidgames.md
     image_circular: false # crops the image to make it circular
+ - align: right
+    image: 
+    content: dj.md
+    image_circular: false # crops the image to make it circular
 ---
