@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /inmyfreetime/
 title: in my free time 
-description: work hard, play hard. 
+description: 
 nav: true
 nav_order: 6
 
