@@ -2,7 +2,7 @@
 layout: page
 title: current projects
 permalink: /projects/
-description: xxxx
+description: My research broadly focuses on how children think about their social world, with an emphasis on how they think about intersecting social categories (e.g. race x gender) in contexts relating to social inequality. By embracing complexity and tackling challenging questions, my research allows for a more accurate representation of the lived experiences of individuals situated at the intersection of multiple social identities as well as paints a more complete picture of social cognitive processes and their outcomes.
 nav: true
 nav_order: 3
 horizontal: false
