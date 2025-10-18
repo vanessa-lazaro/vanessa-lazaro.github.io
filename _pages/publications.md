@@ -7,6 +7,8 @@ nav: true
 nav_order: 2
 ---
 
+Lazaro, V. & Bian, L. (under review). Who suffers more? A developmental examination of the wealth-based perceptions of psychological pain. 
+
 Lazaro, V., & Bian, L. (2024). Children’s social preference for peers engaged in brilliance-required activities: The impact of gender and race. Developmental Psychology, 60(12), 2233–2241. 
 
 Lee, N.<sup>†</sup>, Lazaro, V.<sup>†</sup>, Wang, J. J., Şen, H. H., & Lucca, K. (2023). Exploring individual differences in infants’ looking preferences for impossible events: The Early Multidimensional Curiosity Scale. Frontiers in psychology, 13, 1015649.
