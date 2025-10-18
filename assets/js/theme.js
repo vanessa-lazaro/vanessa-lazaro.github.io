@@ -22,7 +22,7 @@ let setThemeSetting = (themeSetting) => {
 };
 
 // Apply the computed dark or light theme to the website.
-let applyTheme = ("light") => {
+let applyTheme = () => {
   let theme = determineComputedTheme();
 
   transTheme();
@@ -256,7 +256,7 @@ let transTheme = () => {
 let determineThemeSetting = () => {
   let themeSetting = localStorage.getItem("theme");
   if (themeSetting != "dark" && themeSetting != "light" && themeSetting != "system") {
-    themeSetting = "system";
+    themeSetting = "light";
   }
   return themeSetting;
 };
