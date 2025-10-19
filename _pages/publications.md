@@ -13,7 +13,7 @@ Lazaro, V., & Bian, L. (2024). [Children’s social preference for peers engaged
 
 Lee, N.<sup>†</sup>, Lazaro, V.<sup>†</sup>, Wang, J. J., Şen, H. H., & Lucca, K. (2023). [Exploring individual differences in infants’ looking preferences for impossible events: The Early Multidimensional Curiosity Scale. Frontiers in psychology, 13, 1015649.](https://pmc.ncbi.nlm.nih.gov/articles/PMC9931910/)
 
-Hiura, L. C., Lazaro, V. A., & Ophir, A. G. (2024). [Paternal absence and increased caregiving independently and interactively shape the development of male prairie voles at subadult and adult life stages. Hormones and Behavior, 164, 105605.](https://www.sciencedirect.com/science/article/am/pii/S0018506X24001302](https://pmc.ncbi.nlm.nih.gov/articles/PMC10164929/)
+Hiura, L. C., Lazaro, V. A., & Ophir, A. G. (2024). [Paternal absence and increased caregiving independently and interactively shape the development of male prairie voles at subadult and adult life stages. Hormones and Behavior, 164, 105605.](https://pmc.ncbi.nlm.nih.gov/articles/PMC10164929/)
 
 Hiura, L. C., Lazaro, V. A., & Ophir, A. G. (2023). [Plasticity in parental behavior and vasopressin: responses to co-parenting, pup age, and an acute stressor are experience-dependent. Frontiers in Behavioral Neuroscience, 17, 1172845.](https://www.sciencedirect.com/science/article/am/pii/S0018506X24001302)
 
