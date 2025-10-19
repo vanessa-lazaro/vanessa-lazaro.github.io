@@ -38,13 +38,6 @@ ninja.data = [{
             window.location.href = "/inmyfreetime/";
           },
         },{
-        id: 'social-bluesky',
-        title: 'Bluesky',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://bsky.app/profile/vanessalazaro.bsky.social# your bluesky URL", "_blank");
-        },
-      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
@@ -57,6 +50,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://www.linkedin.com/in/vanessa-lazaro", "_blank");
+        },
+      },{
+        id: 'social-bluesky',
+        title: 'Bluesky',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://bsky.app/profile/vanessalazaro.bsky.social# your bluesky URL", "_blank");
         },
       },{
         id: 'social-scholar',
