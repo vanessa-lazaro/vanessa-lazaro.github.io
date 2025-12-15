@@ -16,9 +16,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-current-projects",
-          title: "current projects",
-          description: "By embracing complexity and tackling challenging questions, my research paints a more complete picture of social cognitive processes and their outcomes.",
+        },{id: "nav-projects",
+          title: "projects",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
